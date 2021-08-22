@@ -8,7 +8,7 @@ myImage.onclick = function() {
       myImage.setAttribute('src','images/21stcenturyimage.jpg');
     }
 }
-let myButton = document.querySelector('button');
+/*let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
 function setUserName() {
     let myName = prompt('Please enter your name.');
@@ -32,4 +32,4 @@ function setUserName() {
       localStorage.setItem('name', myName);
       myHeading.textContent = 'You Will Thrive, ' + myName;
     }
-  }
+  }*/
