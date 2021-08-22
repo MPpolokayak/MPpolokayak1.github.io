@@ -6,9 +6,13 @@ html {
     font-size: 40px;
     text-align: center;
   }
+  h2 {
+    font-size: 40px;
+    text-align: center;
+  }
   
   p, li {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
   }
@@ -18,22 +22,32 @@ html {
   }
 
   body {
-    width: 800px;
+    width: 1000px;
     margin: 0 auto;
     background-color: #B4CEE8;
-    padding: 0 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
     border: 5px solid black;
   }
 
   h1 {
+    width: 1050px;
     margin: 0;
     padding: 20px 0;
     color: #00539F;
     text-shadow: 3px 3px 10px black;
   }
 
+  h2 {
+    width: 1050px;
+    margin: 0;
+    padding: 0 0;
+    color: #00539F;
+    text-shadow: 3px 3px 10px black;
+  }
+
   img {
-    width: 600px;
+    width: 1000px;
+    height: 450px;
     display: block;
     margin: 0 auto;
   }
